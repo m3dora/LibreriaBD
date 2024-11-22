@@ -40,6 +40,8 @@ INSERT INTO categorias (nombre)
 VALUES 
 ('Ficción'),
 ('Historia'),
+('Paranormal'),
+('Artes'),
 ('Ciencia');
 
 -- Insertar datos en la tabla de libros
